@@ -3,13 +3,13 @@
   <groupId>com.gibb</groupId>
   <artifactId>easyclick</artifactId>
   <versioning>
-    <release>1.0.8-no-image</release>
+    <release>1.0.9-no-image</release>
     <versions>
-      <version>1.0.8-all</version>
-      <version>1.0.8-x86</version>
-      <version>1.0.8-armeabi-v7a</version>
-      <version>1.0.8-no-image</version>
+      <version>1.0.9-all</version>
+      <version>1.0.9-x86</version>
+      <version>1.0.9-armeabi-v7a</version>
+      <version>1.0.9-no-image</version>
     </versions>
-    <lastUpdated>20190802072113</lastUpdated>
+    <lastUpdated>20190809033718</lastUpdated>
   </versioning>
 </metadata>
